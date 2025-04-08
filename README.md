@@ -2,7 +2,7 @@
 
 - 🎓 Computer Science - Universidade Cruzeiro do Sul;
 - :books: Currently, I'm focusing my efforts in learning mostly Java, Spring, MySQL, JDBC and overall Back-end development. But I do also have fitness in Python, C++, and Front-end development;
-- :outbox_tray: Main goals for 2024: To be able to sharpen my skills with diverse projects and to get into the software field.
+- :outbox_tray: Main goals for 2025: To be able to sharpen my skills with diverse projects and to get into the software field.
 <div align="center">
   <a href="https://github.com/fegarrucho81">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fegarrucho81&layout=compact&langs_count=5&theme=dracula"/>
