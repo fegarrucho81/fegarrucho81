@@ -1,7 +1,7 @@
 ## Hello there, I am Felipe! 
 
 - 🎓 Computer Science - Universidade Cruzeiro do Sul;
-- :books: Currently, I'm focusing my efforts in learning mostly Java, Spring, MySQL, JDBC and overall Back-end development. But I do also have fitness in Python, C++, and Front-end development;
+- :books: Currently, I am mainly focused on back-end development, working with Java (Spring Framework), JavaScript (Node.js with Express on the back-end and React on the front-end), Python (using Flask and Django) and C++. I have knowledge in creating and consuming RESTful APIs.
 - :outbox_tray: Main goals for 2025: To be able to sharpen my skills with diverse projects and to get into the software field.
 <div align="center">
   <a href="https://github.com/fegarrucho81">
